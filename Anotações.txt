@@ -8,3 +8,5 @@ git commit
 git commit -m "mensagem"
 git status
 git clone url
+git push
+git pull
